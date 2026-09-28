@@ -1,0 +1,6 @@
+build/
+JUCE/
+test-output/
+*.log
+.DS_Store
+.vs/
